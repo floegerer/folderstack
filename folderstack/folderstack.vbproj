@@ -70,7 +70,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\shelllink\VB\ShellLinkNative.vb">
+    <Compile Include="res\shelllink\VB\ShellLinkNative.vb">
       <Link>ShellLinkNative.vb</Link>
     </Compile>
     <Compile Include="MainForm.Designer.vb">
