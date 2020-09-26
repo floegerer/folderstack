@@ -17,5 +17,5 @@ When you click the icon, FolderStack will list the content of that folder, any e
 
 ## Todos
 
-- Rename all files necessary from folderstack > to folderstack, the new name of the application.
-- Clean up the codebase and add comments to all vital subclasses.
+- [x] Rename all files necessary from folderstack > to folderstack, the new name of the application.
+- [] Clean up & document the codebase and add comments to all vital subclasses.
