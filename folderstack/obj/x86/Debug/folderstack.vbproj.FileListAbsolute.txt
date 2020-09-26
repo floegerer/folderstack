@@ -1,0 +1,27 @@
+C:\Users\code2\Documents\SharpDevelop Projects\folderstack\folderstack\bin\Debug\folderstack.exe
+C:\Users\code2\Documents\SharpDevelop Projects\folderstack\folderstack\bin\Debug\folderstack.pdb
+C:\Users\code2\Documents\SharpDevelop Projects\folderstack\folderstack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\code2\Documents\SharpDevelop Projects\folderstack\folderstack\obj\x86\Debug\folderstack.MainForm.resources
+C:\Users\code2\Documents\SharpDevelop Projects\folderstack\folderstack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\code2\Documents\SharpDevelop Projects\folderstack\folderstack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\code2\Documents\SharpDevelop Projects\folderstack\folderstack\obj\x86\Debug\folderstack.exe
+C:\Users\code2\Documents\SharpDevelop Projects\folderstack\folderstack\obj\x86\Debug\folderstack.pdb
+E:\Windows\code2\SharpDevelop Projects\folderstack\folderstack\bin\Debug\folderstack.exe
+E:\Windows\code2\SharpDevelop Projects\folderstack\folderstack\bin\Debug\folderstack.pdb
+E:\Windows\code2\SharpDevelop Projects\folderstack\folderstack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Windows\code2\SharpDevelop Projects\folderstack\folderstack\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Windows\code2\SharpDevelop Projects\folderstack\folderstack\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Windows\code2\SharpDevelop Projects\folderstack\folderstack\obj\x86\Debug\folderstack.exe
+E:\Windows\code2\SharpDevelop Projects\folderstack\folderstack\obj\x86\Debug\folderstack.pdb
+E:\Windows\code2\SharpDevelop Projects\folderstack\folderstack\obj\x86\Debug\folderstack.MainForm.resources
+E:\Windows\code2\SharpDevelop Projects\folderstack\folderstack\bin\Debug\folderstack.xml
+E:\Windows\code2\SharpDevelop Projects\folderstack\folderstack\bin\Release\folderstack.exe
+E:\Windows\code2\SharpDevelop Projects\folderstack\folderstack\bin\Release\folderstack.pdb
+E:\Windows\code2\SharpDevelop Projects\folderstack\folderstack\bin\Release\folderstack.xml
+X:\Autosync\Apps\folderstack\folderstack.exe
+X:\Autosync\Apps\folderstack\folderstack.pdb
+D:\Projects\SharpDevelop\folderstack\folderstack\obj\x86\Debug\folderstack.vbprojResolveAssemblyReference.cache
+D:\Projects\SharpDevelop\folderstack\folderstack\obj\x86\Debug\folderstack.MainForm.resources
+D:\Projects\SharpDevelop\folderstack\folderstack\obj\x86\Debug\folderstack.vbproj.GenerateResource.Cache
+D:\Projects\SharpDevelop\folderstack\folderstack\obj\x86\Debug\folderstack.pdb
+D:\Projects\SharpDevelop\folderstack\folderstack\obj\x86\Debug\folderstack.exe

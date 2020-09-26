@@ -1,7 +1,0 @@
-D:\Projects\SharpDevelop\Stackr\Stackr\bin\Debug\Stackr.exe
-D:\Projects\SharpDevelop\Stackr\Stackr\bin\Debug\Stackr.pdb
-D:\Projects\SharpDevelop\Stackr\Stackr\obj\Debug\Stackr.vbprojResolveAssemblyReference.cache
-D:\Projects\SharpDevelop\Stackr\Stackr\obj\Debug\Stackr.MainForm.resources
-D:\Projects\SharpDevelop\Stackr\Stackr\obj\Debug\Stackr.vbproj.GenerateResource.Cache
-D:\Projects\SharpDevelop\Stackr\Stackr\obj\Debug\Stackr.exe
-D:\Projects\SharpDevelop\Stackr\Stackr\obj\Debug\Stackr.pdb

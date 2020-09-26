@@ -1,0 +1,12 @@
+D:\Projects\SharpDevelop\folderstack\folderstack\bin\Debug\folderstack.exe
+D:\Projects\SharpDevelop\folderstack\folderstack\bin\Debug\folderstack.pdb
+D:\Projects\SharpDevelop\folderstack\folderstack\obj\Debug\folderstack.vbprojResolveAssemblyReference.cache
+D:\Projects\SharpDevelop\folderstack\folderstack\obj\Debug\folderstack.MainForm.resources
+D:\Projects\SharpDevelop\folderstack\folderstack\obj\Debug\folderstack.vbproj.GenerateResource.Cache
+D:\Projects\SharpDevelop\folderstack\folderstack\obj\Debug\folderstack.exe
+D:\Projects\SharpDevelop\folderstack\folderstack\obj\Debug\folderstack.pdb
+D:\Projects\SharpDevelop\Stackr\folderstack\obj\Debug\folderstack.vbprojResolveAssemblyReference.cache
+D:\Projects\SharpDevelop\Stackr\folderstack\obj\Debug\folderstack.MainForm.resources
+D:\Projects\SharpDevelop\Stackr\folderstack\obj\Debug\folderstack.vbproj.GenerateResource.Cache
+D:\Projects\SharpDevelop\Stackr\folderstack\obj\Debug\folderstack.exe
+D:\Projects\SharpDevelop\Stackr\folderstack\obj\Debug\folderstack.pdb

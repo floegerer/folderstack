@@ -1,9 +1,0 @@
-E:\Windows\code2\SharpDevelop Projects\Stackr\Stackr\obj\x86\Debug\ResolveAssemblyReference.cache
-E:\Windows\code2\SharpDevelop Projects\Stackr\Stackr\obj\x86\Debug\Stackr.MainForm.resources
-E:\Windows\code2\SharpDevelop Projects\Stackr\Stackr\obj\x86\Debug\Stackr.vbproj.GenerateResource.Cache
-E:\Windows\code2\SharpDevelop Projects\Stackr\Stackr\obj\x86\Debug\Stackr.exe
-E:\Windows\code2\SharpDevelop Projects\Stackr\Stackr\obj\x86\Debug\Stackr.pdb
-E:\Windows\code2\SharpDevelop Projects\Stackr\Stackr\obj\x86\Release\ResolveAssemblyReference.cache
-E:\Windows\code2\SharpDevelop Projects\Stackr\Stackr\obj\x86\Release\Stackr.MainForm.resources
-E:\Windows\code2\SharpDevelop Projects\Stackr\Stackr\obj\x86\Release\Stackr.vbproj.GenerateResource.Cache
-E:\Windows\code2\SharpDevelop Projects\Stackr\Stackr\obj\x86\Release\Stackr.exe
