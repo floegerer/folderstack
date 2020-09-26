@@ -49,7 +49,7 @@ Public Class SystemImageListManager
     ''' <summary>
     ''' Summary of Initializer.
     ''' </summary>
-    ''' 
+    '''
     Private Shared Sub Initializer()
         If m_Initialized Then
             Exit Sub
@@ -109,7 +109,7 @@ Public Class SystemImageListManager
     ''' </summary>
     ''' <param name="item"></param>
     ''' <param name="GetOpenIcon"></param>
-    ''' 
+    '''
     Public Shared Function GetIconIndex(ByRef item As CShItem, _
                                         Optional ByVal GetOpenIcon As Boolean = False, _
                                         Optional ByVal GetSelectedIcon As Boolean = False _
@@ -148,24 +148,24 @@ Public Class SystemImageListManager
                 rVal = Key \ 256        '  the right index -- put in table
                 m_Table(Key) = rVal
                 bCnt += 1
-            Else        'don't have iconindex for an overlay, get it. 
+            Else        'don't have iconindex for an overlay, get it.
                 'This is the tricky part -- add overlaid Icon to systemimagelist
                 '  use of SmallImageList from Calum McLellan
-                
-                
-                
-                
+
+
+
+
                 Dim shfi As New SHFILEINFO
                 Dim shfi_small As New SHFILEINFO
                 Dim HR As IntPtr
                 Dim HR_SMALL As IntPtr
-                
+
                 If .IsFileSystem And Not .IsDisk And Not .IsFolder Then
                     dwflag = dwflag Or SHGFI.USEFILEATTRIBUTES
                     dwAttr = FILE_ATTRIBUTE_NORMAL
                 End If
-                
-                
+
+
                 HR = SHGetFileInfo(.PIDL, dwAttr, shfi, cbFileInfo, dwflag)
                 HR_SMALL = SHGetFileInfo(.PIDL, dwAttr, shfi_small, cbFileInfo, dwflag Or SHGFI.SMALLICON)
                 m_Mutex.WaitOne()
@@ -288,7 +288,7 @@ Public Class SystemImageListManager
     ''' <param name="listView"></param>
     ''' <param name="forLargeIcons"></param>
     ''' <param name="forStateImages"></param>
-    ''' 
+    '''
     Public Shared Sub SetListViewImageList( _
             ByVal listView As ListView, _
             ByVal forLargeIcons As Boolean, _
@@ -322,7 +322,7 @@ Public Class SystemImageListManager
     ''' </summary>
     ''' <param name="treeView"></param>
     ''' <param name="forStateImages"></param>
-    ''' 
+    '''
     Public Shared Sub SetTreeViewImageList( _
         ByVal treeView As TreeView, _
         ByVal forStateImages As Boolean)
