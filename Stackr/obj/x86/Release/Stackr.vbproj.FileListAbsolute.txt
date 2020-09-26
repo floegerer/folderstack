@@ -1,0 +1,18 @@
+C:\Users\code2\Documents\SharpDevelop Projects\Stackr\Stackr\bin\Release\Stackr.exe
+C:\Users\code2\Documents\SharpDevelop Projects\Stackr\Stackr\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\code2\Documents\SharpDevelop Projects\Stackr\Stackr\obj\x86\Release\Stackr.MainForm.resources
+C:\Users\code2\Documents\SharpDevelop Projects\Stackr\Stackr\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\code2\Documents\SharpDevelop Projects\Stackr\Stackr\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\code2\Documents\SharpDevelop Projects\Stackr\Stackr\obj\x86\Release\Stackr.exe
+E:\Windows\code2\SharpDevelop Projects\Stackr\Stackr\bin\Release\Stackr.exe
+E:\Windows\code2\SharpDevelop Projects\Stackr\Stackr\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Windows\code2\SharpDevelop Projects\Stackr\Stackr\obj\x86\Release\Stackr.exe
+E:\Windows\code2\SharpDevelop Projects\Stackr\Stackr\obj\x86\Release\Stackr.MainForm.resources
+E:\Windows\code2\SharpDevelop Projects\Stackr\Stackr\bin\Release\Stackr.xml
+X:\Local\Apps\Stackr\Stackr.exe
+X:\Local\Apps\Stackr\Stackr.exe.config
+E:\Windows\code2\SharpDevelop Projects\Stackr\Stackr\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Windows\code2\SharpDevelop Projects\Stackr\Stackr\obj\x86\Release\GenerateResource.write.1.tlog
+X:\Autosync\Apps\Stackr\Stackr.exe
+X:\Autosync\Apps\Stackr\Stackr.pdb
+E:\Windows\code2\SharpDevelop Projects\Stackr\Stackr\obj\x86\Release\Stackr.pdb
